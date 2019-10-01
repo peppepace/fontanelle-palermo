@@ -1,2555 +1,2555 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.34446,
-          38.112536
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA DANISINNI, 22",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.353889,
-          38.117926
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA CONCEZIONE, 7",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.327761,
-          38.19384
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SALINE, 29",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.327725,
-          38.17158
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA PALLAVICINO, 93 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.326659,
-          38.192242
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MARTINI, 3",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.343577,
-          38.148114
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA DEL FANTE, 3",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.285868,
-          38.189522
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA TOMMASO NATALE, 141",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.311114,
-          38.196281
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA PARTANNA MONDELLO, 167",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.313392,
-          38.201258
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "CORTILE CATALANO, 23 C",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.313914,
-          38.199843
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CATALANO, 43 B",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.318446,
-          38.198446
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CARBONE, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.315325,
-          38.196729
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIALE CAVARRETTA, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.320532,
-          38.109418
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA ALTARELLO, 233",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.331536,
-          38.090433
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA PAGLIARELLI, 7 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.345516,
-          38.132622
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA F. LO IACONO, 20",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.34349,
-          38.132229
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA G. SCIUTI, 2",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.35695,
-          38.141415
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "CORTILE SEMINARIO GRECO,3",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.366562,
-          38.166993
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA NOSTRA DONNA DEL ROTOLO, 50",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.331853,
-          38.119107
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA PERPIGNANO, 177",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.308807,
-          38.126114
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MAZZARELLA, 45",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.355524,
-          38.075049
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA ALOI, 123 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.308799,
-          38.125687
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA CASTELLANA, 95 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.425265,
-          38.067715
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "CORTILE RAPALLO, 14 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.388577,
-          38.093007
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CONTE FEDERICO, 178 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.366064,
-          38.113334
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VICOLO MEZZOJUSO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.364339,
-          38.113609
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MESCHITA ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.364561,
-          38.113426
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA BOLOGNA, 24 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.416208,
-          38.09748
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MESSINA MARINE, 637 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.379517,
-          38.102967
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO DEI MILLE, 384 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.401636,
-          38.09916
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SPERONE, 296 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.399401,
-          38.099477
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SPERONE, 66 A ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.420907,
-          38.088055
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO DEI MILLE 1620 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.373998,
-          38.079082
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA BARRESI ,7 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.371716,
-          38.105165
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DECOLLATI, 14 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.358085,
-          38.116145
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DEL CELSO, 85",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.359963,
-          38.113976
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA PIETRO SPECIALE, 1 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.365852,
-          38.120135
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA TAVOLA TONDA, 18 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.355584,
-          38.112656
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "PIAZZA VITTORIA ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.341897,
-          38.104312
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA AGOSTINO CATALANO, 80  ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.356055,
-          38.116226
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA SAN GIOVANNI ALLA GUILLA, 4 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.359141,
-          38.115866
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA DELLA CANNA, 2 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.35887,
-          38.109595
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA RITIRO SAN PIETRO, 20 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.358557,
-          38.1169
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA DELLE API, 6 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.350762,
-          38.131958
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA DELLA LIBERTA' GIARDINO INGLESE ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.333445,
-          38.07816
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA VILLAGRAZIA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.369887,
-          38.076736
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "FONDO PECORARO (VIA FALSOMIELE)",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.325337,
-          38.110006
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MADONNA DEL SOCCORSO 3",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.312688,
-          38.196577
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA LORENZO IANDOLINO, 54",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.36362,
-          38.14766
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CORTILE CASTELLANA BANDIERA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.311662,
-          38.125994
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VICOLO SEIDITA IN VIA CASAMICCIOLA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.383327,
-          38.10695
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MESSINA MARINE, 50 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.356896,
-          38.115596
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "PIAZZETTA VINCENZO DI GIOVANNI ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.35538,
-          38.117089
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VICOLO DEGLI ORFANI, 15 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.361753,
-          38.079678
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "LARGO PARISI, 18 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.329823,
-          38.140232
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CONCERIA, 32 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.305624,
-          38.109069
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA BAIDA 106 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.2863,
-          38.190045
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA ROSSI, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.370337,
-          38.103486
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "FONDO NAPOLITANO ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.378209,
-          38.114806
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VILLA A MARE",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.357784,
-          38.148121
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "PIAZZA GEN. CASCINO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3555,
-          38.119865
-        ]
-      },
-      "properties": {
-        "name": "FONTANA",
-        "address": "VIA VOLTURNO, 2",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.276838,
-          38.197942
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA SFERRACAVALLO, 8",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.289097,
-          38.188327
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MANDORLE, 10",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.286906,
-          38.187864
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DI BENEDETTO, 19",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.308583,
-          38.109259
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA PIETRO MICCA, 18",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.308868,
-          38.108181
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA UMBERTO MADDALENA, 232",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.312224,
-          38.195186
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA ASILO INFANTILE, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.33033,
-          38.113467
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA PORTELLO ,14",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.324978,
-          38.110867
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MADONNADEL SOCCORSO, 41 A",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.326597,
-          38.20721
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MONDELLO, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.305472,
-          38.10846
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA BAIDA, 21 COD SERVIZIO 177024",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.277711,
-          38.199366
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA BARCAIOLI, 44",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3092,
-          38.107688
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA UMBERTO MADDALENA, 113",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.309612,
-          38.106864
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA UMBERTO MADDALENA, 103",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.307838,
-          38.093992
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO CALATAFIMI,1157",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.323331,
-          38.109835
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA ALTARELLO, 76",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.276028,
-          38.19924
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA AMORELLO, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.276254,
-          38.198393
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA SS. COSIMA E DAMIANO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.274645,
-          38.198261
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MARINA DI SFERRACAVALLO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.277935,
-          38.196957
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SFERRACAVALLO, 198",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.275186,
-          38.197802
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA BAGLICELLO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.315455,
-          38.147962
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA TRABUCCO, 67",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.316556,
-          38.198016
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CARBONE, 67",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.345939,
-          38.109323
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO CALATAFIMI, 217",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.338787,
-          38.101296
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA GENERALE TURBA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.367454,
-          38.165183
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MORICI,1 A",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.373589,
-          38.151374
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA TONNARA, 1",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.374665,
-          38.153294
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DELLA LEVA, 40",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.347125,
-          38.110888
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORTILE CASERMAGGIO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.307046,
-          38.108705
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MICHELE FANARA, 2",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.346463,
-          38.111831
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DANISINNI ANG. LA FIURA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.371578,
-          38.11757
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SCOPARI, 6",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.37399,
-          38.153135
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA CARUSO ARENELLA",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.277714,
-          38.199397
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA DEI PESCATORI",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.322712,
-          38.131648
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA UDITORE, 15",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.313684,
-          38.126913
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CASALINI ANG. LEONARDO DA VINCI",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.301743,
-          38.174382
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA TOMMASO NATALE, 61",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.371165,
-          38.154213
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA  MASSAIA GUGLIELMO CARDINALE, 159",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.323104,
-          38.100284
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO CALATAFIMI, 927",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.334822,
-          38.153186
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA RESUTTANA, 418 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.332909,
-          38.153059
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA SCANNASERPE",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.321899,
-          38.159765
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA NUOVA 106, ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.334687,
-          38.172812
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GIUSINO, 24 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.357473,
-          38.144163
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA ISAC RABIN, 33",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.368535,
-          38.144994
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "SALITA BELMONTE, 40 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.326594,
-          38.163538
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA FLORIO, 27 E",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.336199,
-          38.152231
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA RESUTTANA, 372",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.327315,
-          38.137681
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VICOLO FELICE, 9",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.328337,
-          38.138468
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA FELICE, 4 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.311333,
-          38.125969
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORTILE PRESTIGIACOMO, 10 IN VIA CASTELLANA ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.366613,
-          38.145292
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIZZETTA DI CRISTOFALO, 5 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.389449,
-          38.096828
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "FONDO MORTILLARO, 6 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.373851,
-          38.154404
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CARUSO, 43 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.418855,
-          38.068478
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GIARDINA, 2 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.417459,
-          38.06754
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GIARDINA, 53 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.416643,
-          38.067044
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA GIARDINA, 3 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.405929,
-          38.09373
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO DEI MILLE, 1294 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.406831,
-          38.093465
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO DEI MILLE, 1258 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.393617,
-          38.098127
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORSO DEI MILLE, 988 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.387449,
-          38.093763
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GIAFAR, 127 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.382879,
-          38.096174
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA BRANCACCIO, 228 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.407128,
-          38.075933
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CIACULLI, 240 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.40454,
-          38.07704
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CIACULLI, 216 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.398733,
-          38.079246
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GIULIO TENAGLIA, 41 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.368958,
-          38.100082
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA GUADAGNA, 50 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.36725,
-          38.165789
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA VERGINE MARIA, 12 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.3994,
-          38.099475
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SPERONE, 204 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.361543,
-          38.10116
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA S. ORSOLA, 7 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.355178,
-          38.118552
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA SAN GREGORIO, 13 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.364111,
-          38.120685
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SANT'ALESANDRO, 47 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.370935,
-          38.11984
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA SANTO SPIRITO, 15 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.367446,
-          38.115299
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA CHIESA DEI COCCHIERI",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.365605,
-          38.116642
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "ARCO DEI CARTARI, 7 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.322962,
-          38.105585
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "FONDO MICCIULLA, 11 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.358786,
-          38.127628
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA MULINO A VENTO, 1 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.358075,
-          38.128977
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA ETTORE XIMENES ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.328953,
-          38.168224
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CITTA' DEI RAGAZZI IN VIALE DUCA DEGLI ABRUZZI ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.352246,
-          38.114777
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIZZA PERANNI DOMENICO, 10 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.357842,
-          38.113477
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA SETTECANTONI, 2 ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.332204,
-          38.07683
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA VILLAGRAZIA 467",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.285067,
-          38.190947
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZA TOMMASO NATALE, 90",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.366538,
-          38.146078
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "SALITACORTILE  LE CHIAVI II, 39",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.330118,
-          38.173522
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA MATER DOLOROSA, 97",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.358899,
-          38.114269
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SS. SALVATORE, 30",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.385614,
-          38.093773
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA CONTE FEDERICO, 61",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.381778,
-          38.095768
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "CORTILE LOMBINO ",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.416,
-          38.066279
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "PIAZZETTA CINA', 97",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.374003,
-          38.117118
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "FORO ITALICO",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.323633,
-          38.162785
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA SAN LORENZO, 202",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.318222,
-          38.180716
-        ]
-      },
-      "properties": {
-        "name": "FONTANELLA",
-        "address": "VIA FAUSTO COPPI",
-        "marker-color": "#0080ff",
-        "marker-size": "medium",
-        "marker-symbol": "water"
-      }
-    }
-  ]
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34446,
+                    38.112536
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA DANISINNI, 22",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.353889,
+                    38.117926
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA CONCEZIONE, 7",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327761,
+                    38.19384
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SALINE, 29",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327725,
+                    38.17158
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA PALLAVICINO, 93 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326659,
+                    38.192242
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MARTINI, 3",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.343577,
+                    38.148114
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA DEL FANTE, 3",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.285868,
+                    38.189522
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA TOMMASO NATALE, 141",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311114,
+                    38.196281
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA PARTANNA MONDELLO, 167",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313392,
+                    38.201258
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "CORTILE CATALANO, 23 C",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313914,
+                    38.199843
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CATALANO, 43 B",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.318446,
+                    38.198446
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CARBONE, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315325,
+                    38.196729
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIALE CAVARRETTA, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.320532,
+                    38.109418
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA ALTARELLO, 233",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331536,
+                    38.090433
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA PAGLIARELLI, 7 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.345516,
+                    38.132622
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA F. LO IACONO, 20",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34349,
+                    38.132229
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA G. SCIUTI, 2",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35695,
+                    38.141415
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "CORTILE SEMINARIO GRECO,3",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.366562,
+                    38.166993
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA NOSTRA DONNA DEL ROTOLO, 50",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.331853,
+                    38.119107
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA PERPIGNANO, 177",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308807,
+                    38.126114
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MAZZARELLA, 45",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355524,
+                    38.075049
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA ALOI, 123 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308799,
+                    38.125687
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA CASTELLANA, 95 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.425265,
+                    38.067715
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "CORTILE RAPALLO, 14 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.388577,
+                    38.093007
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CONTE FEDERICO, 178 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.366064,
+                    38.113334
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VICOLO MEZZOJUSO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.364339,
+                    38.113609
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MESCHITA ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.364561,
+                    38.113426
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA BOLOGNA, 24 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416208,
+                    38.09748
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MESSINA MARINE, 637 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.379517,
+                    38.102967
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO DEI MILLE, 384 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.401636,
+                    38.09916
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SPERONE, 296 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.399401,
+                    38.099477
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SPERONE, 66 A ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.420907,
+                    38.088055
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO DEI MILLE 1620 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373998,
+                    38.079082
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA BARRESI ,7 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371716,
+                    38.105165
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DECOLLATI, 14 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358085,
+                    38.116145
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DEL CELSO, 85",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.359963,
+                    38.113976
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA PIETRO SPECIALE, 1 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.365852,
+                    38.120135
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA TAVOLA TONDA, 18 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355584,
+                    38.112656
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "PIAZZA VITTORIA ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.341897,
+                    38.104312
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA AGOSTINO CATALANO, 80  ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356055,
+                    38.116226
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA SAN GIOVANNI ALLA GUILLA, 4 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.359141,
+                    38.115866
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA DELLA CANNA, 2 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35887,
+                    38.109595
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA RITIRO SAN PIETRO, 20 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358557,
+                    38.1169
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA DELLE API, 6 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.350762,
+                    38.131958
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA DELLA LIBERTA' GIARDINO INGLESE ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.333445,
+                    38.07816
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA VILLAGRAZIA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369887,
+                    38.076736
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "FONDO PECORARO (VIA FALSOMIELE)",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.325337,
+                    38.110006
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MADONNA DEL SOCCORSO 3",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312688,
+                    38.196577
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA LORENZO IANDOLINO, 54",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36362,
+                    38.14766
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CORTILE CASTELLANA BANDIERA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311662,
+                    38.125994
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VICOLO SEIDITA IN VIA CASAMICCIOLA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.383327,
+                    38.10695
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MESSINA MARINE, 50 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356896,
+                    38.115596
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "PIAZZETTA VINCENZO DI GIOVANNI ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.35538,
+                    38.117089
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VICOLO DEGLI ORFANI, 15 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361753,
+                    38.079678
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "LARGO PARISI, 18 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.329823,
+                    38.140232
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CONCERIA, 32 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305624,
+                    38.109069
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA BAIDA 106 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2863,
+                    38.190045
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA ROSSI, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.370337,
+                    38.103486
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "FONDO NAPOLITANO ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.378209,
+                    38.114806
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VILLA A MARE",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357784,
+                    38.148121
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "PIAZZA GEN. CASCINO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3555,
+                    38.119865
+                ]
+            },
+            "properties": {
+                "name": "FONTANA",
+                "address": "VIA VOLTURNO, 2",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276838,
+                    38.197942
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA SFERRACAVALLO, 8",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.289097,
+                    38.188327
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MANDORLE, 10",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.286906,
+                    38.187864
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DI BENEDETTO, 19",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308583,
+                    38.109259
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA PIETRO MICCA, 18",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.308868,
+                    38.108181
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA UMBERTO MADDALENA, 232",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312224,
+                    38.195186
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA ASILO INFANTILE, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.33033,
+                    38.113467
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA PORTELLO ,14",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.324978,
+                    38.110867
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MADONNADEL SOCCORSO, 41 A",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326597,
+                    38.20721
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MONDELLO, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.305472,
+                    38.10846
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA BAIDA, 21 COD SERVIZIO 177024",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.277711,
+                    38.199366
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA BARCAIOLI, 44",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3092,
+                    38.107688
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA UMBERTO MADDALENA, 113",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.309612,
+                    38.106864
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA UMBERTO MADDALENA, 103",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307838,
+                    38.093992
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO CALATAFIMI,1157",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.323331,
+                    38.109835
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA ALTARELLO, 76",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276028,
+                    38.19924
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA AMORELLO, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.276254,
+                    38.198393
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA SS. COSIMA E DAMIANO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.274645,
+                    38.198261
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MARINA DI SFERRACAVALLO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.277935,
+                    38.196957
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SFERRACAVALLO, 198",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.275186,
+                    38.197802
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA BAGLICELLO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.315455,
+                    38.147962
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA TRABUCCO, 67",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.316556,
+                    38.198016
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CARBONE, 67",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.345939,
+                    38.109323
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO CALATAFIMI, 217",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.338787,
+                    38.101296
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA GENERALE TURBA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.367454,
+                    38.165183
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MORICI,1 A",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373589,
+                    38.151374
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA TONNARA, 1",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374665,
+                    38.153294
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DELLA LEVA, 40",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.347125,
+                    38.110888
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORTILE CASERMAGGIO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.307046,
+                    38.108705
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MICHELE FANARA, 2",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.346463,
+                    38.111831
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DANISINNI ANG. LA FIURA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371578,
+                    38.11757
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SCOPARI, 6",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.37399,
+                    38.153135
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA CARUSO ARENELLA",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.277714,
+                    38.199397
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA DEI PESCATORI",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322712,
+                    38.131648
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA UDITORE, 15",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.313684,
+                    38.126913
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CASALINI ANG. LEONARDO DA VINCI",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.301743,
+                    38.174382
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA TOMMASO NATALE, 61",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371165,
+                    38.154213
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA  MASSAIA GUGLIELMO CARDINALE, 159",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.323104,
+                    38.100284
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO CALATAFIMI, 927",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334822,
+                    38.153186
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA RESUTTANA, 418 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332909,
+                    38.153059
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA SCANNASERPE",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.321899,
+                    38.159765
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA NUOVA 106, ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.334687,
+                    38.172812
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GIUSINO, 24 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357473,
+                    38.144163
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA ISAC RABIN, 33",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368535,
+                    38.144994
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "SALITA BELMONTE, 40 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.326594,
+                    38.163538
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA FLORIO, 27 E",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.336199,
+                    38.152231
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA RESUTTANA, 372",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.327315,
+                    38.137681
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VICOLO FELICE, 9",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328337,
+                    38.138468
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA FELICE, 4 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.311333,
+                    38.125969
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORTILE PRESTIGIACOMO, 10 IN VIA CASTELLANA ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.366613,
+                    38.145292
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIZZETTA DI CRISTOFALO, 5 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.389449,
+                    38.096828
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "FONDO MORTILLARO, 6 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.373851,
+                    38.154404
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CARUSO, 43 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.418855,
+                    38.068478
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GIARDINA, 2 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.417459,
+                    38.06754
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GIARDINA, 53 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416643,
+                    38.067044
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA GIARDINA, 3 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.405929,
+                    38.09373
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO DEI MILLE, 1294 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.406831,
+                    38.093465
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO DEI MILLE, 1258 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.393617,
+                    38.098127
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORSO DEI MILLE, 988 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.387449,
+                    38.093763
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GIAFAR, 127 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.382879,
+                    38.096174
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA BRANCACCIO, 228 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.407128,
+                    38.075933
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CIACULLI, 240 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.40454,
+                    38.07704
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CIACULLI, 216 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.398733,
+                    38.079246
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GIULIO TENAGLIA, 41 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.368958,
+                    38.100082
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA GUADAGNA, 50 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.36725,
+                    38.165789
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA VERGINE MARIA, 12 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3994,
+                    38.099475
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SPERONE, 204 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.361543,
+                    38.10116
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA S. ORSOLA, 7 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.355178,
+                    38.118552
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA SAN GREGORIO, 13 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.364111,
+                    38.120685
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SANT'ALESANDRO, 47 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.370935,
+                    38.11984
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA SANTO SPIRITO, 15 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.367446,
+                    38.115299
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA CHIESA DEI COCCHIERI",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.365605,
+                    38.116642
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "ARCO DEI CARTARI, 7 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.322962,
+                    38.105585
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "FONDO MICCIULLA, 11 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358786,
+                    38.127628
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA MULINO A VENTO, 1 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358075,
+                    38.128977
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA ETTORE XIMENES ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.328953,
+                    38.168224
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CITTA' DEI RAGAZZI IN VIALE DUCA DEGLI ABRUZZI ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.352246,
+                    38.114777
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIZZA PERANNI DOMENICO, 10 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.357842,
+                    38.113477
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA SETTECANTONI, 2 ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.332204,
+                    38.07683
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA VILLAGRAZIA 467",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.285067,
+                    38.190947
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZA TOMMASO NATALE, 90",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.366538,
+                    38.146078
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "SALITACORTILE  LE CHIAVI II, 39",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.330118,
+                    38.173522
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA MATER DOLOROSA, 97",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.358899,
+                    38.114269
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SS. SALVATORE, 30",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.385614,
+                    38.093773
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA CONTE FEDERICO, 61",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.381778,
+                    38.095768
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "CORTILE LOMBINO ",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416,
+                    38.066279
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "PIAZZETTA CINA', 97",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.374003,
+                    38.117118
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "FORO ITALICO",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.323633,
+                    38.162785
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA SAN LORENZO, 202",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.318222,
+                    38.180716
+                ]
+            },
+            "properties": {
+                "name": "FONTANELLA",
+                "address": "VIA FAUSTO COPPI",
+                "marker-color": "#0080ff",
+                "marker-size": "medium",
+                "marker-symbol": "water"
+            }
+        }
+    ]
 }
