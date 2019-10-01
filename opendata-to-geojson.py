@@ -1,3 +1,5 @@
+#Versione 20191001
+
 import json
 import urllib.request
 
