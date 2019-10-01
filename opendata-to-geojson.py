@@ -1,4 +1,15 @@
-#Versione 20191001
+'''
+    File name: 
+        opendata-to-geojson.py
+    Author: 
+        Peppe Pace
+    Date created: 
+        01/10/2019
+    Date last modified: 
+        01/10/2019
+    Description:
+        Tool to convert online opendata [https://opendata.comune.palermo.it/ws.php?id=1905&fmt=json] in geojson format
+'''
 
 import json
 import urllib.request
